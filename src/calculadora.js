@@ -9,7 +9,6 @@ function calcularMediaDeDoisValores(valor1, valor) {
     return resultadoMediaDoisValores;
 }
 
-
 module.exports = {
     somaDoisValores
 }
